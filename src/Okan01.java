@@ -4,6 +4,8 @@ public class Okan01 {
 
 
         // created okan01 file
-        //created another test case
+
+
+        System.out.println("Good night");
     }
 }
