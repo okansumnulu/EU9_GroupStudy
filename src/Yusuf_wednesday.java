@@ -5,6 +5,7 @@ public class Yusuf_wednesday {
         String name = "Yusuf";
         secondPro();
         thirdPro();
+        fourthPro();
     }
 
     public static void secondPro(){
@@ -13,5 +14,8 @@ public class Yusuf_wednesday {
 
     public static void thirdPro(){
         System.out.println("third project completed");
+    }
+    public static void fourthPro(){
+        System.out.println("fourth project completed");
     }
 }
