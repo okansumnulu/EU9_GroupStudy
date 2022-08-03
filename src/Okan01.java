@@ -4,5 +4,8 @@ public class Okan01 {
 
 
         // created okan01 file
+
+
+        System.out.println("Good night");
     }
 }
