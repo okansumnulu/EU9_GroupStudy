@@ -4,9 +4,14 @@ public class Yusuf_wednesday {
 
         String name = "Yusuf";
         secondPro();
+        thirdPro();
     }
 
     public static void secondPro(){
         System.out.println("second project completed");
+    }
+
+    public static void thirdPro(){
+        System.out.println("third project completed");
     }
 }
